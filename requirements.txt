@@ -1,0 +1,15 @@
+dash
+dash-bootstrap-components
+pymupdf
+sentence-transformers
+pillow
+numpy
+
+# RAG backend (Gemini 2.5 Flash)
+google-genai
+python-dotenv
+google-generativeai
+
+# Local models (BLIP image captioning)
+transformers
+torch
